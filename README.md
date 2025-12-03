@@ -195,3 +195,11 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 **Last Updated**: November 19, 2025
 **Version**: 1.0
+
+## Status
+Active
+
+## TODO
+- [ ] Continue literature review
+- [ ] Develop framework documentation
+- [ ] Prepare for publication
